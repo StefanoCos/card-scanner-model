@@ -8,7 +8,7 @@ This repository provides a sample trained model meant to be used **in combinatio
 > This repository is not affiliated with the original project – it exists to help the community **experiment with a working model** compatible with `card-scanner`.
 
 
-![pkm_output_image](https://github.com/user-attachments/assets/88330e6b-a2fd-4767-909a-d4b82674f119)
+![esempio_output_image](https://github.com/user-attachments/assets/703003de-2d65-4176-ac90-f882cffda0a2)
 
 https://github.com/user-attachments/assets/0a494b91-2781-4ee2-a6f5-a88ccb07680f
 ---
