@@ -6,8 +6,7 @@ This repository provides a sample trained model meant to be used **in combinatio
 
 > ⚠️ All credit for the original scanner UI and runtime goes to **@jslok**.  
 > This repository is not affiliated with the original project – it exists to help the community **experiment with a working model** compatible with `card-scanner`.
-
-![output](https://github.com/user-attachments/assets/51646a8d-4c0f-48ed-aa1e-b19f86382be8)
+C:\Users\stefa\Documents\Projects\CardScanner\mmdetection\output\pkm_output_image.jpg
 https://github.com/user-attachments/assets/0a494b91-2781-4ee2-a6f5-a88ccb07680f
 ---
 
