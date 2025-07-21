@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/0a494b91-2781-4ee2-a6f5-a88ccb07680f
 
 ### 📦 Current contents
 
+⚠️ Experimental Only
 Right now, this repo contains:
 - A **PyTorch model** trained for 3 epochs on ~7000 synthetic images  
 
@@ -27,9 +28,6 @@ If there's interest, I may release:
 
 Feel free to open an issue or discussion if you’d like to see that added.
 
-⚠️ Experimental Only
-The model provided (model_epoch3.pth) is intended for experimental and testing purposes only.
-It has been trained for only 3 epochs on a synthetic dataset of ~7000 images.
 
 
 
